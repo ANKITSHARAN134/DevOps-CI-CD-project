@@ -5,10 +5,15 @@ It helps improve deployment reliability and development efficiency.
 
 # Technologies Used🛠️
 ->GitHub
+
 ->GitHub Actions
+
 ->Python
+
 ->Flask
+
 ->Linux
+
 ->YAML
 
 # CI/CD Workflow🤖
@@ -22,7 +27,7 @@ The pipeline runs automatically on every push to the main branch and performs th
 
 #Run Locally💻
 1) Clone the repository:
-git clone https://github.com/yourusername/devops-ci-cd-project.git
+https://github.com/ANKITSHARAN134/DevOps-CI-CD-project.git
 cd devops-ci-cd-project
 
 2) Install dependencies:
